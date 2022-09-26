@@ -1,2 +1,2 @@
 # Influence-Function-Implemented-by-Myself
-A algorithm for filtering noisy data
+This repository contains the code of influence function using PyTorch framework. I run the code on Nvidia RTX 3090 GPU successfully.
